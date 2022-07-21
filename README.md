@@ -1,4 +1,4 @@
-# login
+Dailydash is an management app where you can add the task do to. Suitable for professional and personal use
 
 ## Project setup
 ```
