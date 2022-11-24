@@ -1,9 +1,11 @@
 #Dailydash 
+
 Dailydash is an management app where you can add the task do to. Suitable for professional and personal use
 
 ## Authors
 
 - [@andrabeje](https://www.github.com/Andra10)
+
 
 ## Demo
 https://dailydash.vercel.app/
